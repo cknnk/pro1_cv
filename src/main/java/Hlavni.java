@@ -1,6 +1,7 @@
 /**
  *
  * Komentar k tride Hlavni.
+ * Dalsi Komentar.
  */
 
 public class Hlavni {
